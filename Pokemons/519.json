@@ -1,0 +1,18 @@
+{
+  "index": 519,
+  "name": "Pidove",
+  "image_url": "http://serebii.net/xy/pokemon/519.png",
+  "types": [
+    "normal",
+    "flying"
+  ],
+  "evolutions": [
+    {
+      "pokemon": 520,
+      "event": "level-21"
+    }
+  ],
+  "moves": [
+
+  ]
+}

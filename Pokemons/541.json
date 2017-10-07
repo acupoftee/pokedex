@@ -1,0 +1,18 @@
+{
+  "index": 541,
+  "name": "Swadloon",
+  "image_url": "http://serebii.net/xy/pokemon/541.png",
+  "types": [
+    "bug",
+    "grass"
+  ],
+  "evolutions": [
+    {
+      "pokemon": 542,
+      "event": "level-with-full-happiness"
+    }
+  ],
+  "moves": [
+
+  ]
+}

@@ -1,0 +1,17 @@
+{
+  "index": 422,
+  "name": "Shellos",
+  "image_url": "http://serebii.net/xy/pokemon/422.png",
+  "types": [
+    "water"
+  ],
+  "evolutions": [
+    {
+      "pokemon": 423,
+      "event": "level-30"
+    }
+  ],
+  "moves": [
+
+  ]
+}

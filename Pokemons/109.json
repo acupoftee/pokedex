@@ -1,0 +1,17 @@
+{
+  "index": 109,
+  "name": "Koffing",
+  "image_url": "http://serebii.net/xy/pokemon/109.png",
+  "types": [
+    "poison"
+  ],
+  "evolutions": [
+    {
+      "pokemon": 110,
+      "event": "level-35"
+    }
+  ],
+  "moves": [
+
+  ]
+}

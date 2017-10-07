@@ -1,0 +1,17 @@
+{
+  "index": 288,
+  "name": "Vigoroth",
+  "image_url": "http://serebii.net/xy/pokemon/288.png",
+  "types": [
+    "normal"
+  ],
+  "evolutions": [
+    {
+      "pokemon": 289,
+      "event": "level-36"
+    }
+  ],
+  "moves": [
+
+  ]
+}

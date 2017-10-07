@@ -1,0 +1,18 @@
+{
+  "index": 343,
+  "name": "Baltoy",
+  "image_url": "http://serebii.net/xy/pokemon/343.png",
+  "types": [
+    "ground",
+    "psychic"
+  ],
+  "evolutions": [
+    {
+      "pokemon": 344,
+      "event": "level-36"
+    }
+  ],
+  "moves": [
+
+  ]
+}

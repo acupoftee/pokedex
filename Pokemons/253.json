@@ -1,0 +1,17 @@
+{
+  "index": 253,
+  "name": "Grovyle",
+  "image_url": "http://serebii.net/xy/pokemon/253.png",
+  "types": [
+    "grass"
+  ],
+  "evolutions": [
+    {
+      "pokemon": 254,
+      "event": "level-36"
+    }
+  ],
+  "moves": [
+
+  ]
+}

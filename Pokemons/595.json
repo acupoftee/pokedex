@@ -1,0 +1,18 @@
+{
+  "index": 595,
+  "name": "Joltik",
+  "image_url": "http://serebii.net/xy/pokemon/595.png",
+  "types": [
+    "bug",
+    "electric"
+  ],
+  "evolutions": [
+    {
+      "pokemon": 596,
+      "event": "level-36"
+    }
+  ],
+  "moves": [
+
+  ]
+}

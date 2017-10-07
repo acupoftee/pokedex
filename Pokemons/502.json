@@ -1,0 +1,17 @@
+{
+  "index": 502,
+  "name": "Dewott",
+  "image_url": "http://serebii.net/xy/pokemon/502.png",
+  "types": [
+    "water"
+  ],
+  "evolutions": [
+    {
+      "pokemon": 503,
+      "event": "level-36"
+    }
+  ],
+  "moves": [
+
+  ]
+}

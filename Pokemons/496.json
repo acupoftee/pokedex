@@ -1,0 +1,17 @@
+{
+  "index": 496,
+  "name": "Servine",
+  "image_url": "http://serebii.net/xy/pokemon/496.png",
+  "types": [
+    "grass"
+  ],
+  "evolutions": [
+    {
+      "pokemon": 497,
+      "event": "level-36"
+    }
+  ],
+  "moves": [
+
+  ]
+}

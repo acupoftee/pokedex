@@ -1,0 +1,17 @@
+{
+  "index": 19,
+  "name": "Rattata",
+  "image_url": "http://serebii.net/xy/pokemon/019.png",
+  "types": [
+    "normal"
+  ],
+  "evolutions": [
+    {
+      "pokemon": 20,
+      "event": "level-20"
+    }
+  ],
+  "moves": [
+
+  ]
+}

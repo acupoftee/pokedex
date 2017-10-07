@@ -1,0 +1,17 @@
+{
+  "index": 159,
+  "name": "Croconaw",
+  "image_url": "http://serebii.net/xy/pokemon/159.png",
+  "types": [
+    "water"
+  ],
+  "evolutions": [
+    {
+      "pokemon": 160,
+      "event": "level-30"
+    }
+  ],
+  "moves": [
+
+  ]
+}

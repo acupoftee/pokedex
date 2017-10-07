@@ -1,0 +1,17 @@
+{
+  "index": 155,
+  "name": "Cyndaquil",
+  "image_url": "http://serebii.net/xy/pokemon/155.png",
+  "types": [
+    "fire"
+  ],
+  "evolutions": [
+    {
+      "pokemon": 156,
+      "event": "level-14"
+    }
+  ],
+  "moves": [
+
+  ]
+}

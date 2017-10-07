@@ -1,0 +1,17 @@
+{
+  "index": 572,
+  "name": "Minccino",
+  "image_url": "http://serebii.net/xy/pokemon/572.png",
+  "types": [
+    "normal"
+  ],
+  "evolutions": [
+    {
+      "pokemon": 573,
+      "event": "shinystone"
+    }
+  ],
+  "moves": [
+
+  ]
+}

@@ -1,0 +1,17 @@
+{
+  "index": 431,
+  "name": "Glameow",
+  "image_url": "http://serebii.net/xy/pokemon/431.png",
+  "types": [
+    "normal"
+  ],
+  "evolutions": [
+    {
+      "pokemon": 432,
+      "event": "level-38"
+    }
+  ],
+  "moves": [
+
+  ]
+}

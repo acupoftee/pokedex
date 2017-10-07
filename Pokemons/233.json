@@ -1,0 +1,17 @@
+{
+  "index": 233,
+  "name": "Porygon2",
+  "image_url": "http://serebii.net/xy/pokemon/233.png",
+  "types": [
+    "normal"
+  ],
+  "evolutions": [
+    {
+      "pokemon": 474,
+      "event": "trade-with-dubiousdisc"
+    }
+  ],
+  "moves": [
+
+  ]
+}

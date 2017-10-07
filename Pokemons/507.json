@@ -1,0 +1,17 @@
+{
+  "index": 507,
+  "name": "Herdier",
+  "image_url": "http://serebii.net/xy/pokemon/507.png",
+  "types": [
+    "normal"
+  ],
+  "evolutions": [
+    {
+      "pokemon": 508,
+      "event": "level-32"
+    }
+  ],
+  "moves": [
+
+  ]
+}

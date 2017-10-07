@@ -1,0 +1,18 @@
+{
+  "index": 592,
+  "name": "Frillish",
+  "image_url": "http://serebii.net/xy/pokemon/592.png",
+  "types": [
+    "water",
+    "ghost"
+  ],
+  "evolutions": [
+    {
+      "pokemon": 593,
+      "event": "level-40"
+    }
+  ],
+  "moves": [
+
+  ]
+}

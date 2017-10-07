@@ -1,0 +1,17 @@
+{
+  "index": 456,
+  "name": "Finneon",
+  "image_url": "http://serebii.net/xy/pokemon/456.png",
+  "types": [
+    "water"
+  ],
+  "evolutions": [
+    {
+      "pokemon": 457,
+      "event": "level-31"
+    }
+  ],
+  "moves": [
+
+  ]
+}

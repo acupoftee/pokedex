@@ -1,0 +1,18 @@
+{
+  "index": 636,
+  "name": "Larvesta",
+  "image_url": "http://serebii.net/xy/pokemon/636.png",
+  "types": [
+    "bug",
+    "fire"
+  ],
+  "evolutions": [
+    {
+      "pokemon": 637,
+      "event": "level-59"
+    }
+  ],
+  "moves": [
+
+  ]
+}

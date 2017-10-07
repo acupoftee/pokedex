@@ -1,0 +1,17 @@
+{
+  "index": 529,
+  "name": "Drilbur",
+  "image_url": "http://serebii.net/xy/pokemon/529.png",
+  "types": [
+    "ground"
+  ],
+  "evolutions": [
+    {
+      "pokemon": 530,
+      "event": "level-31"
+    }
+  ],
+  "moves": [
+
+  ]
+}

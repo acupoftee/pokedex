@@ -1,0 +1,17 @@
+{
+  "index": 501,
+  "name": "Oshawott",
+  "image_url": "http://serebii.net/xy/pokemon/501.png",
+  "types": [
+    "water"
+  ],
+  "evolutions": [
+    {
+      "pokemon": 502,
+      "event": "level-17"
+    }
+  ],
+  "moves": [
+
+  ]
+}

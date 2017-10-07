@@ -1,0 +1,18 @@
+{
+  "index": 259,
+  "name": "Marshtomp",
+  "image_url": "http://serebii.net/xy/pokemon/259.png",
+  "types": [
+    "water",
+    "ground"
+  ],
+  "evolutions": [
+    {
+      "pokemon": 260,
+      "event": "level-36"
+    }
+  ],
+  "moves": [
+
+  ]
+}

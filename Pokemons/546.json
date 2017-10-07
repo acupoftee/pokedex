@@ -1,0 +1,18 @@
+{
+  "index": 546,
+  "name": "Cottonee",
+  "image_url": "http://serebii.net/xy/pokemon/546.png",
+  "types": [
+    "grass",
+    "fairy"
+  ],
+  "evolutions": [
+    {
+      "pokemon": 547,
+      "event": "sunstone"
+    }
+  ],
+  "moves": [
+
+  ]
+}

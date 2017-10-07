@@ -1,0 +1,17 @@
+{
+  "index": 200,
+  "name": "Misdreavus",
+  "image_url": "http://serebii.net/xy/pokemon/200.png",
+  "types": [
+    "ghost"
+  ],
+  "evolutions": [
+    {
+      "pokemon": 429,
+      "event": "duskstone"
+    }
+  ],
+  "moves": [
+
+  ]
+}

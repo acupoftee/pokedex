@@ -1,0 +1,17 @@
+{
+  "index": 420,
+  "name": "Cherubi",
+  "image_url": "http://serebii.net/xy/pokemon/420.png",
+  "types": [
+    "grass"
+  ],
+  "evolutions": [
+    {
+      "pokemon": 421,
+      "event": "level-25"
+    }
+  ],
+  "moves": [
+
+  ]
+}

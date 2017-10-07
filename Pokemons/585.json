@@ -1,0 +1,18 @@
+{
+  "index": 585,
+  "name": "Deerling",
+  "image_url": "http://serebii.net/xy/pokemon/585.png",
+  "types": [
+    "normal",
+    "grass"
+  ],
+  "evolutions": [
+    {
+      "pokemon": 586,
+      "event": "level-34"
+    }
+  ],
+  "moves": [
+
+  ]
+}

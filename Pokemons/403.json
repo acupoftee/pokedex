@@ -1,0 +1,17 @@
+{
+  "index": 403,
+  "name": "Shinx",
+  "image_url": "http://serebii.net/xy/pokemon/403.png",
+  "types": [
+    "electric"
+  ],
+  "evolutions": [
+    {
+      "pokemon": 404,
+      "event": "level-15"
+    }
+  ],
+  "moves": [
+
+  ]
+}

@@ -1,0 +1,17 @@
+{
+  "index": 137,
+  "name": "Porygon",
+  "image_url": "http://serebii.net/xy/pokemon/137.png",
+  "types": [
+    "normal"
+  ],
+  "evolutions": [
+    {
+      "pokemon": 233,
+      "event": "trade-with-upgrade"
+    }
+  ],
+  "moves": [
+
+  ]
+}

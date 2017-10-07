@@ -1,0 +1,21 @@
+{
+  "index": 349,
+  "name": "Feebas",
+  "image_url": "http://serebii.net/xy/pokemon/349.png",
+  "types": [
+    "water"
+  ],
+  "evolutions": [
+    {
+      "pokemon": 350,
+      "event": "level-with-max-beauty"
+    },
+    {
+      "pokemon": 350,
+      "event": "trade-with-prism-scale"
+    }
+  ],
+  "moves": [
+
+  ]
+}

@@ -1,0 +1,17 @@
+{
+  "index": 390,
+  "name": "Chimchar",
+  "image_url": "http://serebii.net/xy/pokemon/390.png",
+  "types": [
+    "fire"
+  ],
+  "evolutions": [
+    {
+      "pokemon": 391,
+      "event": "level-14"
+    }
+  ],
+  "moves": [
+
+  ]
+}

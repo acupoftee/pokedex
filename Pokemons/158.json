@@ -1,0 +1,17 @@
+{
+  "index": 158,
+  "name": "Totodile",
+  "image_url": "http://serebii.net/xy/pokemon/158.png",
+  "types": [
+    "water"
+  ],
+  "evolutions": [
+    {
+      "pokemon": 159,
+      "event": "level-18"
+    }
+  ],
+  "moves": [
+
+  ]
+}

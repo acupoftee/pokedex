@@ -1,0 +1,17 @@
+{
+  "index": 152,
+  "name": "Chikorita",
+  "image_url": "http://serebii.net/xy/pokemon/152.png",
+  "types": [
+    "grass"
+  ],
+  "evolutions": [
+    {
+      "pokemon": 153,
+      "event": "level-16"
+    }
+  ],
+  "moves": [
+
+  ]
+}

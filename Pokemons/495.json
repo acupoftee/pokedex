@@ -1,0 +1,17 @@
+{
+  "index": 495,
+  "name": "Snivy",
+  "image_url": "http://serebii.net/xy/pokemon/495.png",
+  "types": [
+    "grass"
+  ],
+  "evolutions": [
+    {
+      "pokemon": 496,
+      "event": "level-17"
+    }
+  ],
+  "moves": [
+
+  ]
+}

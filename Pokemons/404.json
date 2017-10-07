@@ -1,0 +1,17 @@
+{
+  "index": 404,
+  "name": "Luxio",
+  "image_url": "http://serebii.net/xy/pokemon/404.png",
+  "types": [
+    "electric"
+  ],
+  "evolutions": [
+    {
+      "pokemon": 405,
+      "event": "level-30"
+    }
+  ],
+  "moves": [
+
+  ]
+}

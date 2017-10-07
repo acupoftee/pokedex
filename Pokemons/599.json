@@ -1,0 +1,17 @@
+{
+  "index": 599,
+  "name": "Klink",
+  "image_url": "http://serebii.net/xy/pokemon/599.png",
+  "types": [
+    "steel"
+  ],
+  "evolutions": [
+    {
+      "pokemon": 600,
+      "event": "level-38"
+    }
+  ],
+  "moves": [
+
+  ]
+}

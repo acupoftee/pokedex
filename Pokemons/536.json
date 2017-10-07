@@ -1,0 +1,18 @@
+{
+  "index": 536,
+  "name": "Palpitoad",
+  "image_url": "http://serebii.net/xy/pokemon/536.png",
+  "types": [
+    "water",
+    "ground"
+  ],
+  "evolutions": [
+    {
+      "pokemon": 537,
+      "event": "level-36"
+    }
+  ],
+  "moves": [
+
+  ]
+}

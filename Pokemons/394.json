@@ -1,0 +1,17 @@
+{
+  "index": 394,
+  "name": "Prinplup",
+  "image_url": "http://serebii.net/xy/pokemon/394.png",
+  "types": [
+    "water"
+  ],
+  "evolutions": [
+    {
+      "pokemon": 395,
+      "event": "level-36"
+    }
+  ],
+  "moves": [
+
+  ]
+}

@@ -1,0 +1,17 @@
+{
+  "index": 393,
+  "name": "Piplup",
+  "image_url": "http://serebii.net/xy/pokemon/393.png",
+  "types": [
+    "water"
+  ],
+  "evolutions": [
+    {
+      "pokemon": 394,
+      "event": "level-16"
+    }
+  ],
+  "moves": [
+
+  ]
+}

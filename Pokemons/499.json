@@ -1,0 +1,18 @@
+{
+  "index": 499,
+  "name": "Pignite",
+  "image_url": "http://serebii.net/xy/pokemon/499.png",
+  "types": [
+    "fire",
+    "fighting"
+  ],
+  "evolutions": [
+    {
+      "pokemon": 500,
+      "event": "level-36"
+    }
+  ],
+  "moves": [
+
+  ]
+}

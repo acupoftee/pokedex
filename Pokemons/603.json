@@ -1,0 +1,17 @@
+{
+  "index": 603,
+  "name": "Eelektrik",
+  "image_url": "http://serebii.net/xy/pokemon/603.png",
+  "types": [
+    "electric"
+  ],
+  "evolutions": [
+    {
+      "pokemon": 604,
+      "event": "thunderstone"
+    }
+  ],
+  "moves": [
+
+  ]
+}

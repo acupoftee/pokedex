@@ -1,0 +1,17 @@
+{
+  "index": 252,
+  "name": "Treecko",
+  "image_url": "http://serebii.net/xy/pokemon/252.png",
+  "types": [
+    "grass"
+  ],
+  "evolutions": [
+    {
+      "pokemon": 253,
+      "event": "level-16"
+    }
+  ],
+  "moves": [
+
+  ]
+}

@@ -1,0 +1,18 @@
+{
+  "index": 520,
+  "name": "Tranquill",
+  "image_url": "http://serebii.net/xy/pokemon/520.png",
+  "types": [
+    "normal",
+    "flying"
+  ],
+  "evolutions": [
+    {
+      "pokemon": 521,
+      "event": "level-32"
+    }
+  ],
+  "moves": [
+
+  ]
+}

@@ -1,0 +1,17 @@
+{
+  "index": 387,
+  "name": "Turtwig",
+  "image_url": "http://serebii.net/xy/pokemon/387.png",
+  "types": [
+    "grass"
+  ],
+  "evolutions": [
+    {
+      "pokemon": 388,
+      "event": "level-18"
+    }
+  ],
+  "moves": [
+
+  ]
+}

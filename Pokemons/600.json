@@ -1,0 +1,17 @@
+{
+  "index": 600,
+  "name": "Klang",
+  "image_url": "http://serebii.net/xy/pokemon/600.png",
+  "types": [
+    "steel"
+  ],
+  "evolutions": [
+    {
+      "pokemon": 601,
+      "event": "level-49"
+    }
+  ],
+  "moves": [
+
+  ]
+}

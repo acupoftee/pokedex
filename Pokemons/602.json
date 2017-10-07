@@ -1,0 +1,17 @@
+{
+  "index": 602,
+  "name": "Tynamo",
+  "image_url": "http://serebii.net/xy/pokemon/602.png",
+  "types": [
+    "electric"
+  ],
+  "evolutions": [
+    {
+      "pokemon": 603,
+      "event": "level-39"
+    }
+  ],
+  "moves": [
+
+  ]
+}

@@ -1,0 +1,17 @@
+{
+  "index": 427,
+  "name": "Buneary",
+  "image_url": "http://serebii.net/xy/pokemon/427.png",
+  "types": [
+    "normal"
+  ],
+  "evolutions": [
+    {
+      "pokemon": 428,
+      "event": "level-with-full-happiness"
+    }
+  ],
+  "moves": [
+
+  ]
+}
